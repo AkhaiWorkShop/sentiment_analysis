@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+sastrawi
+
+# NLP
+nltk
+spacy
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+transformers
+
+# Jupyter / Notebook
+jupyter
+ipykernel
