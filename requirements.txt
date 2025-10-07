@@ -1,21 +1,46 @@
-# Core
+# ================================
+# 🧩 Core
+# ================================
 numpy
 pandas
 scikit-learn
 matplotlib
 seaborn
 sastrawi
+emoji
 
-# NLP
+# ================================
+# 🧠 NLP & Text Processing
+# ================================
 nltk
 spacy
 
-# Deep Learning
+# ================================
+# ⚙️ Deep Learning Frameworks
+# ================================
 torch
 torchvision
 torchaudio
-transformers
+tensorflow
 
-# Jupyter / Notebook
+# ================================
+# 🤖 Transformers & Modern NLP
+# ================================
+transformers
+datasets
+tokenizers
+accelerate
+evaluate
+sentencepiece   # penting untuk IndoBERT, mBERT, dll
+
+# ================================
+# 📓 Jupyter / Notebook
+# ================================
 jupyter
 ipykernel
+
+# ================================
+# 🧰 Optional Utilities
+# ================================
+tqdm
+rich
